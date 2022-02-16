@@ -1,0 +1,11 @@
+{
+ "name": "���ն� Token",
+ "website": "0",
+ "description": "0",
+ "explorer": "https://bscscan.com/token/0xd0eee602c7f989530b87fa036b1439adae2be91f",
+ "type": "BEP20",
+ "symbol": "���ն�",
+ "decimals": 18,
+ "status": "active",
+ "id": 0xd0eee602c7f989530b87fa036b1439adae2be91f"
+}
